@@ -1,6 +1,6 @@
 ---
 title: tokblok Privacy Policy
-permalink: /privacy
+permalink: /tokblok/privacy
 ---
 
 # tokblok Privacy Policy
