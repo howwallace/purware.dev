@@ -1,3 +1,8 @@
+---
+title: tokblok Privacy Policy
+permalink: /privacy
+---
+
 # tokblok Privacy Policy
 
 **Last updated: 26 April 2026**
